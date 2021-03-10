@@ -3,7 +3,8 @@
 
 ## Hi There ! 👋
 <p>
-   I'm a passionate developer based in France !
+   I'm a passionate developer based in France ! 
+   17yo Student
 </p>
 
 ## Socials 👋
