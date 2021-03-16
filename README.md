@@ -4,7 +4,7 @@
 ## Hi There ! 👋
 <p>
    I'm a passionate developer based in France ! 
-   17yo Student
+   17yo
 </p>
 
 ## Socials 👋
